@@ -1,10 +1,12 @@
 # DNAgons
 A mobile game build with Unity
 
-Disclosure Most images currently in the game will need to be re-done for production. 
+*Disclosure Most images currently in the game will need to be re-done for production. 
+
 TODO: Add : Music, sound effects, sumi-e art and 3D models, a secure database solution with login, website, cash shop items, and code polishing. 
 
 Launch Features :
+
 	* A 3D mobile game with a Sumi-e / Ukiyo-e art style
 	* 3D customizable backyard
 		- players can buy items from the shop and place the items in their yard get DNAgons to visit our dimension.
@@ -32,18 +34,22 @@ Future Features :
 	* Party system so other players can visit your backyard (your personal DNAgon breeding/training grounds)
 	* VR Mode
 
-Competing &&|| similar games : Dragon City (Dragon creatures), Okami (art style), Pokemon GO (Egg hatching, Creature collecting), DragonVale Dragon Mania Legends, Niche (creature breeding), Neko Atsume
+Competing &&|| similar games : 
 
-Difference : The player has an avatar they can move around the 3D world and interact with their dragons.
+	* Dragon City (Dragon creatures), Okami (art style), Pokemon GO (Egg hatching, Creature collecting), DragonVale Dragon Mania Legends, Niche (creature breeding), Neko Atsume
+
+Difference : 
+
+	*The player has an avatar they can move around the 3D world and interact with their dragons.
 	- i.e. : If the player sits by the pond a DNAgon with a high trust level will walk up to them and want to play.
 	- Predators can kill your DNAgons if you dont keep your yard safe.
 		-i.e player logs in to a message that says "While you were away, predators have broken your fence, repair it ASAP to keep your DNAgons safe."
 
 
-PGC
+--PGC--
 
-There are 64 types in Generation 1.
-Made from different combinations of these basic types:
+*There are 64 types in Gen 1. They are made from different combinations of these basic types:
+
  	Name:		Base Color:	Genotype:
 	- Flame, 	Red		FFxFF
     	- Water,	Blue		WWxWW
@@ -53,13 +59,17 @@ Made from different combinations of these basic types:
     	- Twilight,	Black		DDxDD
     	- Solar,	Gold		SSxSS
     	- Crystal	Iridescent	CCxCC
+
 From these others are created:
-i.e	- Steam		Purple		FFxWW low chance from Water and Flame breeding
+
+	- Steam		Purple		FFxWW low chance from Water and Flame breeding
 	- Water		Blue w/ Red pat	WfxWf (because water beats flame)
 	- Flame		Red w/ Blue pat FwxFw (Flame with water resistance) low chance
 
-Patterns/Marking are Procedurally generated and glow at night
+*Patterns/Marking are Procedurally generated and glow at night
+
 DNAgons can have : 
+
 	- 0 to 7 pair of eyes
 	- 0 to 3 pair of ears
 	- 0 to 2 pair of arms
@@ -76,8 +86,13 @@ DNAgons can have :
     		Adult,
     		Elder,
     		Ancient
+		
 In-breed DNAgons have defects like:
+
 	- Overbite
 	- Shortened limbs
-	- crooked or lopsided features
+	- Crooked / Lopsided features
+	- Growth issues
+	- Genetic disease
+	- more to come...
 
