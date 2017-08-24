@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ItemDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ItemData>
+    <Item>
+      <ID>0</ID>
+      <iIconPath>Sprites/Items/DNAgonBerry</iIconPath>
+      <iName>DNAgon Berry</iName>
+      <iDesc>A tasty berry all DNAgons love</iDesc>
+      <iCategory>Food</iCategory>
+      <iCurrency>BrokenScale</iCurrency>
+      <iCost>0</iCost>
+      <iQuantity>0</iQuantity>
+      <iStackable>true</iStackable>
+      <iBought>true</iBought>
+      <iPlaced>false</iPlaced>
+      <iDespawnTime />
+      <iModelPath>Prefabs/Items/DNAgonBerry</iModelPath>
+      <iPosition>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </iPosition>
+    </Item>
+    <Item>
+      <ID>1</ID>
+      <iIconPath>Sprites/Items/Aquapple</iIconPath>
+      <iName>Aquapple</iName>
+      <iDesc>A strange apple shaped food filled with purple liquid</iDesc>
+      <iCategory>Food</iCategory>
+      <iCurrency>BrokenScale</iCurrency>
+      <iCost>20</iCost>
+      <iQuantity>0</iQuantity>
+      <iStackable>true</iStackable>
+      <iBought>false</iBought>
+      <iPlaced>false</iPlaced>
+      <iDespawnTime />
+      <iModelPath>Prefabs/Items/Aquapple</iModelPath>
+      <iPosition>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </iPosition>
+    </Item>
+    <Item>
+      <ID>2</ID>
+      <iIconPath>Sprites/Items/DNana</iIconPath>
+      <iName>D N Ana</iName>
+      <iDesc>A cyan colored banana</iDesc>
+      <iCategory>Food</iCategory>
+      <iCurrency>IntactScale</iCurrency>
+      <iCost>3</iCost>
+      <iQuantity>0</iQuantity>
+      <iStackable>true</iStackable>
+      <iBought>false</iBought>
+      <iPlaced>false</iPlaced>
+      <iDespawnTime />
+      <iModelPath>Prefabs/Items/DNana</iModelPath>
+      <iPosition>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </iPosition>
+    </Item>
+    <Item>
+      <ID>3</ID>
+      <iIconPath>Sprites/Items/DrootFruit</iIconPath>
+      <iName>Droot Fruit</iName>
+      <iDesc>A cactus looking root, seems a bit painful to eat</iDesc>
+      <iCategory>Food</iCategory>
+      <iCurrency>IntactScale</iCurrency>
+      <iCost>5</iCost>
+      <iQuantity>0</iQuantity>
+      <iStackable>true</iStackable>
+      <iBought>false</iBought>
+      <iPlaced>false</iPlaced>
+      <iDespawnTime />
+      <iModelPath>Prefabs/Items/DrootFruit</iModelPath>
+      <iPosition>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </iPosition>
+    </Item>
+    <Item>
+      <ID>4</ID>
+      <iIconPath>Sprites/Items/Watermelon</iIconPath>
+      <iName>Watermelon</iName>
+      <iDesc>Very cool and refreshing</iDesc>
+      <iCategory>Food</iCategory>
+      <iCurrency>IntactScale</iCurrency>
+      <iCost>4</iCost>
+      <iQuantity>0</iQuantity>
+      <iStackable>true</iStackable>
+      <iBought>false</iBought>
+      <iPlaced>false</iPlaced>
+      <iDespawnTime />
+      <iModelPath>Prefabs/Items/Watermelon</iModelPath>
+      <iPosition>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </iPosition>
+    </Item>
+    <Item>
+      <ID>5</ID>
+      <iIconPath>Sprites/Items/Sycee</iIconPath>
+      <iName>Sycee</iName>
+      <iDesc>A sweet and spicy but also pricey root</iDesc>
+      <iCategory>Food</iCategory>
+      <iCurrency>IntactScale</iCurrency>
+      <iCost>7</iCost>
+      <iQuantity>0</iQuantity>
+      <iStackable>true</iStackable>
+      <iBought>false</iBought>
+      <iPlaced>false</iPlaced>
+      <iDespawnTime />
+      <iModelPath>Prefabs/Items/DNana</iModelPath>
+      <iPosition>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </iPosition>
+    </Item>
+    <Item>
+      <ID>6</ID>
+      <iIconPath>Sprites/Items/Cake</iIconPath>
+      <iName>Cake</iName>
+      <iDesc>The cake is !aLie!</iDesc>
+      <iCategory>Food</iCategory>
+      <iCurrency>IntactScale</iCurrency>
+      <iCost>5</iCost>
+      <iQuantity>0</iQuantity>
+      <iStackable>true</iStackable>
+      <iBought>false</iBought>
+      <iPlaced>false</iPlaced>
+      <iDespawnTime />
+      <iModelPath>Prefabs/Items/Cake</iModelPath>
+      <iPosition>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </iPosition>
+    </Item>
+    <Item>
+      <ID>7</ID>
+      <iIconPath>Sprites/Items/ScaleBroken</iIconPath>
+      <iName>Broken Scales</iName>
+      <iDesc>Exchange 12 intact scales for 525 broken scales</iDesc>
+      <iCategory>Exchange</iCategory>
+      <iCurrency>IntactScale</iCurrency>
+      <iCost>12</iCost>
+      <iQuantity>0</iQuantity>
+      <iStackable>true</iStackable>
+      <iBought>false</iBought>
+      <iPlaced>false</iPlaced>
+      <iPosition>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </iPosition>
+    </Item>
+    <Item>
+      <ID>8</ID>
+      <iIconPath>Sprites/Items/ScaleIntact</iIconPath>
+      <iName>Intact Scales</iName>
+      <iDesc>Exchange 525 broken scales for 12 intact scales</iDesc>
+      <iCategory>Exchange</iCategory>
+      <iCurrency>BrokenScale</iCurrency>
+      <iCost>525</iCost>
+      <iQuantity>0</iQuantity>
+      <iStackable>true</iStackable>
+      <iBought>false</iBought>
+      <iPlaced>false</iPlaced>
+      <iPosition>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </iPosition>
+    </Item>
+    <Item>
+      <ID>9</ID>
+      <iIconPath>Sprites/Items/battery</iIconPath>
+      <iName>Battery</iName>
+      <iDesc>A stuffed battery plushy</iDesc>
+      <iCategory>Toy</iCategory>
+      <iCurrency>BrokenScale</iCurrency>
+      <iCost>130</iCost>
+      <iQuantity>0</iQuantity>
+      <iStackable>false</iStackable>
+      <iBought>false</iBought>
+      <iPlaced>false</iPlaced>
+      <iDespawnTime />
+      <iModelPath>Prefabs/Items/Battery</iModelPath>
+      <iPosition>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </iPosition>
+    </Item>
+    <Item>
+      <ID>10</ID>
+      <iIconPath>Sprites/Items/bomb</iIconPath>
+      <iName>Ball Bomb</iName>
+      <iDesc>A ball that looks a bit too much like a bomb</iDesc>
+      <iCategory>Toy</iCategory>
+      <iCurrency>IntactScale</iCurrency>
+      <iCost>12</iCost>
+      <iQuantity>0</iQuantity>
+      <iStackable>false</iStackable>
+      <iBought>false</iBought>
+      <iPlaced>false</iPlaced>
+      <iDespawnTime />
+      <iModelPath>Prefabs/Items/BombRed</iModelPath>
+      <iPosition>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </iPosition>
+    </Item>
+    <Item>
+      <ID>11</ID>
+      <iIconPath>Sprites/Items/crystal</iIconPath>
+      <iName>Crystal</iName>
+      <iDesc>A beautiful crystal rock</iDesc>
+      <iCategory>Prop</iCategory>
+      <iCurrency>BrokenScale</iCurrency>
+      <iCost>125</iCost>
+      <iQuantity>1</iQuantity>
+      <iStackable>false</iStackable>
+      <iBought>true</iBought>
+      <iPlaced>true</iPlaced>
+      <iDespawnTime />
+      <iModelPath>Prefabs/Items/CrystalGreen</iModelPath>
+      <iPosition>
+        <x>-8.346185</x>
+        <y>0.199998677</y>
+        <z>24.3393688</z>
+      </iPosition>
+    </Item>
+    <Item>
+      <ID>12</ID>
+      <iIconPath>Sprites/Items/gem</iIconPath>
+      <iName>Rose Gem</iName>
+      <iDesc>A beautiful Rose crystal gem</iDesc>
+      <iCategory>Prop</iCategory>
+      <iCurrency>IntactScale</iCurrency>
+      <iCost>35</iCost>
+      <iQuantity>0</iQuantity>
+      <iStackable>false</iStackable>
+      <iBought>false</iBought>
+      <iPlaced>false</iPlaced>
+      <iDespawnTime />
+      <iModelPath>Prefabs/Items/Gem</iModelPath>
+      <iPosition>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </iPosition>
+    </Item>
+    <Item>
+      <ID>13</ID>
+      <iIconPath>Sprites/Items/hourglass</iIconPath>
+      <iName>Hourglass</iName>
+      <iDesc>Sands of time</iDesc>
+      <iCategory>Prop</iCategory>
+      <iCurrency>BrokenScale</iCurrency>
+      <iCost>300</iCost>
+      <iQuantity>0</iQuantity>
+      <iStackable>false</iStackable>
+      <iBought>false</iBought>
+      <iPlaced>false</iPlaced>
+      <iDespawnTime />
+      <iModelPath>Prefabs/Items/Hourglass</iModelPath>
+      <iPosition>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </iPosition>
+    </Item>
+    <Item>
+      <ID>14</ID>
+      <iIconPath>Sprites/Items/potion</iIconPath>
+      <iName>Potion</iName>
+      <iDesc>Probably shouldn't let them play with that...</iDesc>
+      <iCategory>Toy</iCategory>
+      <iCurrency>IntactScale</iCurrency>
+      <iCost>20</iCost>
+      <iQuantity>0</iQuantity>
+      <iStackable>false</iStackable>
+      <iBought>false</iBought>
+      <iPlaced>false</iPlaced>
+      <iDespawnTime />
+      <iModelPath>Prefabs/Items/Potion</iModelPath>
+      <iPosition>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </iPosition>
+    </Item>
+    <Item>
+      <ID>15</ID>
+      <iIconPath>Sprites/Items/prize</iIconPath>
+      <iName>1st Place</iName>
+      <iDesc>Who's number 1? You're number 1</iDesc>
+      <iCategory>Prop</iCategory>
+      <iCurrency>IntactScale</iCurrency>
+      <iCost>100</iCost>
+      <iQuantity>0</iQuantity>
+      <iStackable>false</iStackable>
+      <iBought>false</iBought>
+      <iPlaced>false</iPlaced>
+      <iDespawnTime />
+      <iModelPath>Prefabs/Items/Prize</iModelPath>
+      <iPosition>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </iPosition>
+    </Item>
+  </ItemData>
+</ItemDatabase>

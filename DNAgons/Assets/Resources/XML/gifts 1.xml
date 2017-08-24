@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<GiftDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GiftData>
+    <Gift>
+      <ID>0</ID>
+      <gGiverIconPath>1</gGiverIconPath>
+      <gGiverName>Okdzwghc</gGiverName>
+      <gGiverTypePath>Sprites/DNA</gGiverTypePath>
+      <gDNAgonType>Life</gDNAgonType>
+      <gItemIconPath>Sprites/Items/crystal</gItemIconPath>
+      <gCurrencyType>IntactScale</gCurrencyType>
+      <gAmount>9</gAmount>
+    </Gift>
+  </GiftData>
+</GiftDatabase>

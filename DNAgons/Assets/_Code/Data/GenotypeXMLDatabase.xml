@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<DNAgonData>
+  <DNAgon>
+    <ID>1</ID>
+    <TypeIcon>1</TypeIcon>
+    <Genotype>FFxFF</Genotype>
+    <Type>Flame</Type>  
+  </DNAgon>
+  <DNAgon>
+    <ID>2</ID>
+    <TypeIcon>2</TypeIcon>
+    <Genotype>AAxAA</Genotype>
+    <Type>Aqua</Type>
+  </DNAgon>
+  <DNAgon>
+    <ID>3</ID>
+    <TypeIcon>3</TypeIcon>
+    <Genotype>LLxLL</Genotype>
+    <Type>Life</Type>
+  </DNAgon>
+  <DNAgon>
+    <ID>4</ID>
+    <TypeIcon>4</TypeIcon>
+    <Genotype>KKxKK</Genotype>
+    <Type>Sky</Type>
+  </DNAgon>
+  <DNAgon>
+    <ID>5</ID>
+    <TypeIcon>5</TypeIcon>
+    <Genotype>RRxRR</Genotype>
+    <Type>Rock</Type>
+  </DNAgon>
+  <DNAgon>
+    <ID>6</ID>
+    <TypeIcon>6</TypeIcon>
+    <Genotype>TTxTT</Genotype>
+    <Type>Twilight</Type>
+  </DNAgon>
+  <DNAgon>
+    <ID>7</ID>
+    <TypeIcon>7</TypeIcon>
+    <Genotype>SSxSS</Genotype>
+    <Type>Solar</Type>
+  </DNAgon>
+  <DNAgon>
+    <ID>8</ID>
+    <TypeIcon>8</TypeIcon>
+    <Genotype>CCxCC</Genotype>
+    <Type>Crystal</Type>
+  </DNAgon>
+</DNAgonData>

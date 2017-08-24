@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<ItemData>
+  <Item>
+    <ID>1</ID>
+    <IconIndex>1</IconIndex>
+    <Name>Test Item 1</Name>
+    <Description>Test Item 1 Description</Description>
+    <Model3D>Prefabs/Items/Crystal Green</Model3D>
+    <Category>Food</Category>
+    <Cost>100</Cost>
+  </Item>
+  <Item>
+    <ID>2</ID>
+    <IconIndex>2</IconIndex>
+    <Name>Test Item 2</Name>
+    <Description>Test Item 2 Description</Description>
+    <Model3D>Prefabs/Items/Bomb Red</Model3D>
+    <Category>Toy</Category>
+    <Cost>200</Cost>
+  </Item>
+  <Item>
+    <ID>3</ID>
+    <IconIndex>3</IconIndex>
+    <Name>Test Item 3</Name>
+    <Description>Test Item 3 Description</Description>
+    <Model3D>Prefabs/Items/Crystal Green</Model3D>
+    <Category>Food</Category>
+    <Cost>300</Cost>
+  </Item>
+
+  <Item>
+    <ID>4</ID>
+    <IconIndex>1</IconIndex>
+    <Name>Test Item 4</Name>
+    <Description>Test Item 4 Description</Description>
+    <Model3D>Prefabs/Items/Crystal Green</Model3D>
+    <Category>Food</Category>
+    <Cost>100</Cost>
+  </Item>
+  <Item>
+    <ID>5</ID>
+    <IconIndex>2</IconIndex>
+    <Name>Test Item 5</Name>
+    <Description>Test Item 5 Description</Description>
+    <Model3D>Prefabs/Items/Crystal Green</Model3D>
+    <Category>Food</Category>
+    <Cost>200</Cost>
+  </Item>
+  <Item>
+    <ID>6</ID>
+    <IconIndex>3</IconIndex>
+    <Name>Test Item 6</Name>
+    <Description>Test Item 6 Description</Description>
+    <Model3D>Prefabs/Items/Crystal Green</Model3D>
+    <Category>Food</Category>
+    <Cost>300</Cost>
+  </Item>
+  <Item>
+    <ID>7</ID>
+    <IconIndex>1</IconIndex>
+    <Name>Test Item 7</Name>
+    <Description>Test Item 7 Description</Description>
+    <Model3D>Prefabs/Items/Crystal Green</Model3D>
+    <Category>Food</Category>
+    <Cost>100</Cost>
+  </Item>
+  
+</ItemData>

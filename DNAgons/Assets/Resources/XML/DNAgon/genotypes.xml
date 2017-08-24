@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<GenotypeDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DNAgonGenotypeData>
+    <DNAgon>
+      <ID>0</ID>
+      <dIconPath>Sprites/DNAgons/placeHolderDNAgonIcons</dIconPath>
+      <dName />
+      <dTrustLv>0</dTrustLv>
+      <dItem_ID>0</dItem_ID>
+      <dType_ID>0</dType_ID>
+      <dType>Flame</dType>
+      <dTypeIconPath>Sprites/DNA</dTypeIconPath>
+      <dGenotype>FFxFF</dGenotype>
+      <dGender>Male</dGender>
+      <genotypeKnown>false</genotypeKnown>
+      <genotypeVisited>false</genotypeVisited>
+      <lastVisited>0001-01-01T00:00:00</lastVisited>
+      <spawnGOTime>0001-01-01T00:00:00</spawnGOTime>
+      <despawnTime>0001-01-01T00:00:00</despawnTime>
+      <dModelPath>Prefabs/DNAgons/Flame</dModelPath>
+      <dPosition>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </dPosition>
+    </DNAgon>
+    <DNAgon>
+      <ID>1</ID>
+      <dIconPath>Sprites/DNAgons/placeHolderDNAgonIcons</dIconPath>
+      <dName />
+      <dTrustLv>0</dTrustLv>
+      <dItem_ID>0</dItem_ID>
+      <dType_ID>1</dType_ID>
+      <dType>Water</dType>
+      <dTypeIconPath>Sprites/DNA</dTypeIconPath>
+      <dGenotype>WWxWW</dGenotype>
+      <dGender>Male</dGender>
+      <genotypeKnown>false</genotypeKnown>
+      <genotypeVisited>false</genotypeVisited>
+      <lastVisited>0001-01-01T00:00:00</lastVisited>
+      <spawnGOTime>0001-01-01T00:00:00</spawnGOTime>
+      <despawnTime>0001-01-01T00:00:00</despawnTime>
+      <dModelPath>Prefabs/DNAgons/Aqua</dModelPath>
+      <dPosition>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </dPosition>
+    </DNAgon>
+    <DNAgon>
+      <ID>2</ID>
+      <dIconPath>Sprites/DNAgons/placeHolderDNAgonIcons</dIconPath>
+      <dName />
+      <dTrustLv>0</dTrustLv>
+      <dItem_ID>0</dItem_ID>
+      <dType_ID>2</dType_ID>
+      <dType>Life</dType>
+      <dTypeIconPath>Sprites/DNA</dTypeIconPath>
+      <dGenotype>LLxLL</dGenotype>
+      <dGender>Male</dGender>
+      <genotypeKnown>true</genotypeKnown>
+      <genotypeVisited>true</genotypeVisited>
+      <lastVisited>2017-08-04T17:09:22.0291862-04:00</lastVisited>
+      <spawnGOTime>0001-01-01T00:00:00</spawnGOTime>
+      <despawnTime>0001-01-01T00:00:00</despawnTime>
+      <dModelPath>Prefabs/DNAgons/Life</dModelPath>
+      <dPosition>
+        <x>0</x>
+        <y>0</y>
+        <z>0</z>
+      </dPosition>
+    </DNAgon>
+  </DNAgonGenotypeData>
+</GenotypeDatabase>
