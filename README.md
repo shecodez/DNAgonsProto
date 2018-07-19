@@ -1,6 +1,11 @@
 # DNAgons
 A mobile game build with Unity
 
+![Game Dev Screenshot1](screenshots/screenshot_01.png "Screen 01")
+![Game Dev Screenshot2](screenshots/screenshot_02.png "Screen 02")
+![Game Dev Screenshot3](screenshots/screenshot_03.png "Screen 03")
+![Game Dev Screenshot4](screenshots/screenshot_04_shop.png "Shop")
+
 *Disclosure Most images currently in the game will need to be re-done for production. 
 
 TODO: Add : Music, sound effects, sumi-e art and 3D models, a secure database solution with login, website, cash shop items, and code polishing. 
